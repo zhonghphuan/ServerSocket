@@ -110,6 +110,7 @@
 				TargetAttributes = {
 					8629EA241DB360FC00D3C803 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = ZVX932ZEM8;
 					};
 				};
 			};
@@ -265,9 +266,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ZVX932ZEM8;
 				INFOPLIST_FILE = "socket服务端编程/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.zh.socket-----";
+				PRODUCT_BUNDLE_IDENTIFIER = com.zh.socket;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -276,9 +278,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ZVX932ZEM8;
 				INFOPLIST_FILE = "socket服务端编程/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.zh.socket-----";
+				PRODUCT_BUNDLE_IDENTIFIER = com.zh.socket;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -302,6 +305,7 @@
 				8629EA3E1DB360FC00D3C803 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
